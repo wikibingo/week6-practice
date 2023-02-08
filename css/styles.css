@@ -35,3 +35,16 @@ img{
 .below{
     clear:both;
 }  
+.target{
+    width:50px;
+    height:50px;
+    background-color: forestgreen;
+    position:absolute;
+    top: 0;
+    right: 0;
+    }
+    .container
+    {
+    border: 2px gray solid;
+    position: relative;
+    }
