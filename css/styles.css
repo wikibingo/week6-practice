@@ -29,5 +29,9 @@ a[href*="https://bcit"] {
     background-color: yellow;
   }
   
-  
-  
+img{
+    float:left;
+}  
+.below{
+    clear:both;
+}  
